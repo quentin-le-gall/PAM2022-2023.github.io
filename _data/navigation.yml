@@ -1,8 +1,6 @@
 # main links
 main:
-  - title: "Photos"
+  - title: "Photos/Figures"
     url: /photo
-  - title: "Audio files"
+  - title: "Extraits Audio"
     url: /audio
-  - title: "Subjective test"
-    url: /mushra
