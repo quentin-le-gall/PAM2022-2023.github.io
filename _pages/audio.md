@@ -13,6 +13,8 @@ toc_label: "Table des matières"
 toc_icon: "cog"
 ---
 
+Page encore en cours de développement
+
 # Échantillons de synthèse
 
 

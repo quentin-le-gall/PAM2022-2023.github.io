@@ -17,7 +17,7 @@ Ce projet fait parti du master [ATIAM](https://www.atiam.ircam.fr/en/).
 
 ## Résumé
 
-CHANGER RESUMé
+Page encore en développement
     
 
 *Mots-clefs*: Music, Source separation, Non-Negative Matrix Factorization, Live Recording, Acoustics
