@@ -30,7 +30,7 @@ Page encore en cours de développement
 
 <html>
 <audio controls>
-  <source src="/audio/medium_1.wav">
+  <source src="/audio/medium_2.wav">
 </audio>
 </html>
 
@@ -38,7 +38,7 @@ Page encore en cours de développement
 
 <html>
 <audio controls>
-  <source src="/audio/medium_1.wav">
+  <source src="/audio/acier.wav">
 </audio>
 </html>
 
@@ -46,7 +46,7 @@ Page encore en cours de développement
 
 <html>
 <audio controls>
-  <source src="/audio/medium_1.wav">
+  <source src="/audio/plexi.wav">
 </audio>
 </html>
 
@@ -58,7 +58,7 @@ Page encore en cours de développement
 
 <html>
 <audio controls>
-  <source src="/audio/medium_1.wav">
+  <source src="/audio/medium_1_mes.wav">
 </audio>
 </html>
 
@@ -66,7 +66,7 @@ Page encore en cours de développement
 
 <html>
 <audio controls>
-  <source src="/audio/medium_1.wav">
+  <source src="/audio/medium_2_mes.wav">
 </audio>
 </html>
 
@@ -74,7 +74,7 @@ Page encore en cours de développement
 
 <html>
 <audio controls>
-  <source src="/audio/medium_1.wav">
+  <source src="/audio/acier_mes.wav">
 </audio>
 </html>
 
@@ -82,7 +82,7 @@ Page encore en cours de développement
 
 <html>
 <audio controls>
-  <source src="/audio/medium_1.wav">
+  <source src="/audio/plexi_mes.wav">
 </audio>
 </html>
 
