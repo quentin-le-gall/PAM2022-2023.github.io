@@ -18,11 +18,11 @@ Page encore en cours de développement
 # Échantillons de synthèse
 
 
-> Full mix
+> Médium 1
 
 <html>
 <audio controls>
-  <source src="/audio/Violin1ScaleViolin1.wav">
+  <source src="/audio/medium_1.wav">
 </audio>
 </html>
 
