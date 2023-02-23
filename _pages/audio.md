@@ -26,9 +26,65 @@ Page encore en cours de développement
 </audio>
 </html>
 
+> Médium 2
+
+<html>
+<audio controls>
+  <source src="/audio/medium_1.wav">
+</audio>
+</html>
+
+> Aluminium
+
+<html>
+<audio controls>
+  <source src="/audio/medium_1.wav">
+</audio>
+</html>
+
+> Polypropylène
+
+<html>
+<audio controls>
+  <source src="/audio/medium_1.wav">
+</audio>
+</html>
+
+
+
 # Échantillons de mesure
 
+> Médium 1
 
+<html>
+<audio controls>
+  <source src="/audio/medium_1.wav">
+</audio>
+</html>
+
+> Médium 2
+
+<html>
+<audio controls>
+  <source src="/audio/medium_1.wav">
+</audio>
+</html>
+
+> Aluminium
+
+<html>
+<audio controls>
+  <source src="/audio/medium_1.wav">
+</audio>
+</html>
+
+> Polypropylène
+
+<html>
+<audio controls>
+  <source src="/audio/medium_1.wav">
+</audio>
+</html>
 
 
 
@@ -40,20 +96,20 @@ Page encore en cours de développement
   <div id="left-column">
     <!-- content for the left column goes here -->
     <center>
-    <strong> Original </strong>
+    <strong> Left </strong>
     </center>
   </div>
   <div id="right-column">
     <!-- content for the right column goes here -->
     <center>
-    <strong> Separated </strong>
+    <strong> Right </strong>
     </center>
   </div>
 </div>
 
 </html>
 
-> Violin 1
+> Test
 
 <html>
 
